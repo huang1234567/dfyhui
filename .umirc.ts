@@ -1,6 +1,6 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'dfyh';
+const repo = 'dfyhui';
 export default defineConfig({
   title: 'dfyhui',
   favicon:
